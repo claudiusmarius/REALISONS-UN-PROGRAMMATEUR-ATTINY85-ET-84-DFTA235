@@ -9,14 +9,14 @@ Je remercie mon ami Manu qui a réalisé ce programmateur et a accepté de relir
 
 Afin de vous permettre d'entrer de suite dans le vif du sujet, je vous ai ajouté quelques exemples basiques de réalisations, je ne doute pas que vous irez beaucoup plus loin, cependant pour pouvoir les réaliser et si ce n'est pas déjà le cas, vous devrez avoir à disposition en plus du programmateur que vous aurez réalisé :
 
-1 breadboard
+- 1 breadboard
 
-1 ATtiny85 et où un ATtiny84
+- 1 ATtiny85 et où un ATtiny84
 
-des resistances
+- des resistances (des 680 ohms comme dans l'exemple feront bien l'affaire)
 
-Des leds 
+- Des leds 
 
-des fils dupont
+- des fils dupont
 
-Comme j'ai tout prévu, vous pourrez alimenter votre breadboard via les borniers J1 et J2
+Comme j'ai tout prévu, vous pourrez alimenter votre breadboard en 5V via les borniers J1 et J2
