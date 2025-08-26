@@ -13,9 +13,9 @@ Afin de vous permettre d'entrer de suite dans le vif du sujet, je vous ai ajout�
 
 - 1 ATtiny85 et où un ATtiny84,
 
-- des resistances, des 680 ohms 1/4W comme dans l'exemple feront très bien l'affaire,
+- des résistances, des 680 ohms 1/4W comme dans l'exemple feront très bien l'affaire,
 
-- Des leds,
+- des leds de différentes couleurs,
 
 - des fils dupont.
 
