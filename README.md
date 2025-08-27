@@ -19,7 +19,7 @@ Afin de vous permettre d'entrer de suite dans le vif du sujet, je vous ai ajout�
 
 - des fils dupont.
 
-Comme j'ai tout prévu, vous pourrez alimenter votre breadboard en 5V via les borniers J1 et J2.
+Comme j'ai tout prévu, vous pourrez alimenter votre breadboard en 5V via les borniers J1 et J2 du programmateur.
 
 
 
@@ -49,7 +49,7 @@ Pour réaliser les premiers exemples, vous aurez besoin :
 - Quelques LEDs de couleurs variées  
 - Fils Dupont  
 - Programmateur (le montage décrit ici)  
-- Alimentation 5V (possible directement via les borniers **J1** et **J2** du montage)
+- Alimentation 5V (possible directement via les borniers **J1** et **J2** du programmateur)
 
 ---
 
