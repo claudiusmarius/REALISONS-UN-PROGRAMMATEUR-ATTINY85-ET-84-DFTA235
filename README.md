@@ -57,7 +57,7 @@ Pour réaliser les premiers exemples, vous aurez besoin :
 Le repository contient :
 - Le **guide PDF** détaillé.  
 - Le **code ArduinoISP** pour transformer un Nano en programmateur ISP.  
-- Des **exemples basiques** (clignotement, potentiomètre, chenillard, etc.) pour ATtiny85 et ATtiny84.
+- Des **exemples basiques**  pour ATtiny85 et ATtiny84.
 
 Ces exemples sont là pour vous mettre rapidement en route.  
 À vous ensuite d’imaginer et développer vos propres projets autour des ATtiny !
