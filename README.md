@@ -11,7 +11,9 @@ Ce projet décrit la réalisation d’un **programmateur simple et accessible**,
 Dans un souci de clarté, ce guide détaille **pas à pas** la réalisation de ce programmateur et son utilisation.  
 Vous trouverez également un **guide complet** (en PDF) dans le dossier `/docs/`.
 
-Un grand merci à **Manu** qui a réalisé une première version de ce programmateur et accepté de relire le guide en apportant ses remarques 👍
+Vidéo YouTube : https://youtu.be/-_KMgezaRH0
+
+
 
 ---
 
